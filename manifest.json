@@ -1,0 +1,16 @@
+{
+  "name": "إيه يا عم؟ — EH YA AM",
+  "short_name": "إيه يا عم؟",
+  "description": "لعبة أسئلة وتحديات عربية للرحلات، تعمل من موبايل واحد.",
+  "lang": "ar-EG",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#1c120d",
+  "theme_color": "#1c120d",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
